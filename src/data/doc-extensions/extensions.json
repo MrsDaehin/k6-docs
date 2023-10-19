@@ -1141,6 +1141,21 @@
       "categories": ["Data"],
       "tiers": ["Community"],
       "cloudEnabled": false
+    },
+    {
+      "name": "xk6-azservicebus",
+      "description": ""Provides Azure Servicebus support for k6 tests",
+      "url": "https://github.com/fernandoescolar/xk6-azservicebus",
+      "logo": "",
+      "author": {
+        "name": "Fernando Escolar",
+        "url": "https://github.com/fernandoescolar"
+      },
+      "stars": "0",
+      "type": ["JavaScript"],
+      "categories": ["Messaging"],
+      "tiers": ["Community"],
+      "cloudEnabled": false
     }
   ]
 }
